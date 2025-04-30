@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prashant srivastva</h1>
-<h3 align="center">Hello everyone, I am a 3nd year B.Tech student. I am currently pursuing B.Tech from UPES. I really like to play with codes as it increase my logical thinking</h3>
+<h3 align="center">Hello everyone, I am a 3rd year B.Tech student. I am currently pursuing B.Tech from UPES. I really like to play with codes as it increase my logical thinking</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
